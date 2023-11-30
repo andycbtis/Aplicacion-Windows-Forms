@@ -24,9 +24,8 @@ namespace Aplicacion_Windows_Forms
 
         private void catalogoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Formaempleado enpleado = new Formaempleado();
-            enpleado.Show();
-            
+            Formaclientes clientes = new Formaclientes();
+            clientes.Show();
         }
 
         private void compradorToolStripMenuItem_Click(object sender, EventArgs e)

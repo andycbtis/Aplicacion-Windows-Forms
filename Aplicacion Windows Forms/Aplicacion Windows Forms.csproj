@@ -90,6 +90,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\FormaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\FormaClientes.Designer.cs">
+      <DependentUpon>FormaClientes.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -118,6 +124,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Resources\FormaClientes.resx">
+      <DependentUpon>FormaClientes.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -241,6 +250,57 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %289%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IXL for families.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %2810%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %2811%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\%40tesfayesabri _ Linktree.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mil besos tuyos.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edição de colecionador - é assim que acaba.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %2813%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Libros morados.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondos de Pantalla Lilas.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %2813%291.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Libros morados1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondos de Pantalla Lilas1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descargar %2813%292.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\#booklovers.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\%40tesfayesabri _ Linktree1.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

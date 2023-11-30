@@ -73,6 +73,16 @@ namespace Aplicacion_Windows_Forms.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _booklovers {
+            get {
+                object obj = ResourceManager.GetObject("#booklovers", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _Fluffy_Puppy__Sticker_for_Sale_by_CooperDDesigns {
             get {
                 object obj = ResourceManager.GetObject("_Fluffy Puppy_ Sticker for Sale by CooperDDesigns", resourceCulture);
@@ -83,9 +93,39 @@ namespace Aplicacion_Windows_Forms.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _tesfayesabri___Linktree {
+            get {
+                object obj = ResourceManager.GetObject("@tesfayesabri _ Linktree", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _tesfayesabri___Linktree1 {
+            get {
+                object obj = ResourceManager.GetObject("@tesfayesabri _ Linktree1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap agregar_usuario {
             get {
                 object obj = ResourceManager.GetObject("agregar-usuario", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap books {
+            get {
+                object obj = ResourceManager.GetObject("books", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -136,6 +176,56 @@ namespace Aplicacion_Windows_Forms.Properties {
         internal static System.Drawing.Bitmap contrasena {
             get {
                 object obj = ResourceManager.GetObject("contrasena", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__10_ {
+            get {
+                object obj = ResourceManager.GetObject("descargar (10)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__11_ {
+            get {
+                object obj = ResourceManager.GetObject("descargar (11)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__13_ {
+            get {
+                object obj = ResourceManager.GetObject("descargar (13)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__13_1 {
+            get {
+                object obj = ResourceManager.GetObject("descargar (13)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap descargar__13_2 {
+            get {
+                object obj = ResourceManager.GetObject("descargar (13)2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,6 +303,16 @@ namespace Aplicacion_Windows_Forms.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap descargar__9_ {
+            get {
+                object obj = ResourceManager.GetObject("descargar (9)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap e669a8378bfdde37b3dfa6988702e7c4 {
             get {
                 object obj = ResourceManager.GetObject("e669a8378bfdde37b3dfa6988702e7c4", resourceCulture);
@@ -226,6 +326,16 @@ namespace Aplicacion_Windows_Forms.Properties {
         internal static System.Drawing.Bitmap e7cedd23dc0b73fd307c4deff50889ff {
             get {
                 object obj = ResourceManager.GetObject("e7cedd23dc0b73fd307c4deff50889ff", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Edição_de_colecionador___é_assim_que_acaba {
+            get {
+                object obj = ResourceManager.GetObject("Edição de colecionador - é assim que acaba", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,6 +423,56 @@ namespace Aplicacion_Windows_Forms.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Fondos_de_Pantalla_Lilas {
+            get {
+                object obj = ResourceManager.GetObject("Fondos de Pantalla Lilas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fondos_de_Pantalla_Lilas1 {
+            get {
+                object obj = ResourceManager.GetObject("Fondos de Pantalla Lilas1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IXL_for_families {
+            get {
+                object obj = ResourceManager.GetObject("IXL for families", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Libros_morados {
+            get {
+                object obj = ResourceManager.GetObject("Libros morados", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Libros_morados1 {
+            get {
+                object obj = ResourceManager.GetObject("Libros morados1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap llamada_telefonica {
             get {
                 object obj = ResourceManager.GetObject("llamada-telefonica", resourceCulture);
@@ -347,6 +507,16 @@ namespace Aplicacion_Windows_Forms.Properties {
         internal static System.Drawing.Bitmap mhh {
             get {
                 object obj = ResourceManager.GetObject("mhh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mil_besos_tuyos {
+            get {
+                object obj = ResourceManager.GetObject("Mil besos tuyos", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

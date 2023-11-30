@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion Windows Forms", "Aplicacion Windows Forms\Aplicacion Windows Forms.csproj", "{EDE4505C-C076-4C39-97EF-BCC73E3EFF81}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador windows forms", "instalador windows forms\instalador windows forms.vdproj", "{F448A64F-C40D-4FE2-AED4-76CDBC71F882}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador libreria andy", "instalador libreria andy\instalador libreria andy.vdproj", "{6EF1979C-6F56-487F-A2DB-D815657F3910}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador andy libreria", "instalador andy libreria\instalador andy libreria.vdproj", "{E68D42DB-E6CB-4168-A646-1A741DA74C16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,12 @@ Global
 		{EDE4505C-C076-4C39-97EF-BCC73E3EFF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDE4505C-C076-4C39-97EF-BCC73E3EFF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDE4505C-C076-4C39-97EF-BCC73E3EFF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F448A64F-C40D-4FE2-AED4-76CDBC71F882}.Debug|Any CPU.ActiveCfg = Debug
+		{F448A64F-C40D-4FE2-AED4-76CDBC71F882}.Release|Any CPU.ActiveCfg = Release
+		{6EF1979C-6F56-487F-A2DB-D815657F3910}.Debug|Any CPU.ActiveCfg = Debug
+		{6EF1979C-6F56-487F-A2DB-D815657F3910}.Release|Any CPU.ActiveCfg = Release
+		{E68D42DB-E6CB-4168-A646-1A741DA74C16}.Debug|Any CPU.ActiveCfg = Debug
+		{E68D42DB-E6CB-4168-A646-1A741DA74C16}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
